@@ -27,7 +27,7 @@ MS2130 is a USB 3.2 Gen 1 high-definition video and audio acquisition chip, whic
 - Support audio capture
 - Support video capture
 - Maximum video input 3840x2160@30
-- The highest output resolution is 4096x2160@60
+- The highest output resolution is 4096x2160@15
 - Support 1920x1080@60
 
 ## Basic 
