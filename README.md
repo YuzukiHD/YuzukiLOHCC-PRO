@@ -2,6 +2,8 @@
 
 Yuzuki **L**oop **O**ut **H**DMI **C**apture **C**ard PRO
 
+**CERN Open Hardware Licence Version 2 - Permissive**
+
 Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card)
 
 ![main](Bitmap/LOHCC.jpg)
