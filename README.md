@@ -42,7 +42,9 @@ MS2130 is a USB 3.2 Gen 1 high-definition video and audio acquisition chip, whic
 
 ## Flash Firmware
 
-Use an EEPROM flasher to flash the firmware before soldering.
+Use an SPI NOR flasher to flash the firmware to the NOR Flash before soldering.
+
+(Only one SPi NOR of `U4` or `U8` needs to be installed, adding two pads are drawn to be compatible with different types of materials)
 
 ![eeprom](Bitmap/EEPROM.png)
 
