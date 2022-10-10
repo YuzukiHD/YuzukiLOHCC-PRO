@@ -23,12 +23,14 @@ MS2130 is a USB 3.2 Gen 1 high-definition video and audio acquisition chip, whic
 - Full height HDMI x 2
 - Compatible with DVI 1.0
 - Support YUV&JPEG output
-- Compatible with UVC 1.0
+- Compatible with UVC 1.0, UAC 1.0
 - Support audio capture
 - Support video capture
 - Maximum video input 3840x2160@30
 - The highest output resolution is 4096x2160@15
 - Support 1920x1080@60
+- Support Windows 7 Above, macOS 10 and later, Linux, Android and so on
+- Standed UVC 1.0, Support OBS Studio, Camera, FFmpeg and so on.
 
 ## Basic 
 
