@@ -12,7 +12,7 @@ Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capt
 
 Ultra low cost Loop Out HDMI-USB Video Acquisition (HDMI Capture Card) based on MS2130 and MS9332 + MS8003
 
-MS2130 is a USB 3.2 Gen 1 high-definition video and audio acquisition chip, which is internally integrated with USB 3.2 Gen 1 Device controller, data transceiver module, and audio and video processing module. The MS2130 can transmit the audio and video signals input by HDMI to a PC, smartphone, or tablet for preview or collection through the USB 3.2 Gen 1 interface. The MS2130 output supports YUV422 and MJPEG modes, and is compatible with Windows, Android and Mac OS systems. Support OBS Studio, Camera, and FFmpeg.
+MS2130 is a USB 3.2 Gen 1 high-definition video and audio acquisition chip, which is internally integrated with USB 3.2 Gen 1 Device controller, data transceiver module, and audio and video processing module. The MS2130 can transmit the audio and video signals input by HDMI to a PC, smartphone, or tablet for preview or collection through the USB 3.2 Gen 1 interface. The MS2130 output supports YUV422 and MJPEG modes, and is compatible with Windows, Linux, Android and Mac OS systems. Support OBS Studio, Camera, and FFmpeg.
 
 - Support HDMI 4Kx2K@30Hz and HDMI 2.0, YCbCr420 4Kx2K@60Hz Loop Out
 - Support 10/12/16 bit Deep Color for Loop Out
@@ -44,7 +44,7 @@ MS2130 is a USB 3.2 Gen 1 high-definition video and audio acquisition chip, whic
 
 Use an SPI NOR flasher to flash the firmware to the NOR Flash before soldering.
 
-(Only one SPi NOR of `U4` or `U8` needs to be installed, adding two pads are drawn to be compatible with different types of materials)
+(Only one SPi NOR of `U4` or `U8` needs to be mounted, adding two pads are drawn to be compatible with different types of materials)
 
 ![eeprom](Bitmap/EEPROM.png)
 
