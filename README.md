@@ -36,6 +36,12 @@ MS2130 is a USB 3.2 Gen 1 high-definition video and audio acquisition chip, whic
 
 ![main](Bitmap/LOHCC_Basic.png)
 
+## Order a PCB
+Here I suggest using [JLCPCB](https://jlcpcb.com/) to make PCB (my template is also made by JLCPCB). Please note that the **impedance needs to be 3313**, and the **PCB thickness needs to be 0.8mm to install the clamp-style TypeC connector**
+
+![image](https://user-images.githubusercontent.com/12003087/195976170-9df155ec-adb7-4d5e-a0ef-b54f514ab2f4.png)
+
+
 ### Supported USB output resolution table
 
 ![res](Bitmap/reslist.png)
