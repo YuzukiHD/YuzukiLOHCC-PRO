@@ -48,6 +48,15 @@ Here I suggest using [JLCPCB](https://jlcpcb.com/) to make PCB (my template is a
 
 ## Flash Firmware
 
+### USB Flash
+
+Using [ms-tools](https://github.com/BertoldVdb/ms-tools) from @BertoldVdb
+```
+./cli --log-level=7 write-file --verify FLASH 0 YuzukiLOHCCPro.bin
+```
+
+### SPI Programmer
+
 Use an SPI NOR flasher to flash the firmware to the NOR Flash before soldering.
 
 (Only one of `U4` and `U8` needs to be mounted, adding two SPI NOR pads are drawn to be compatible with different types of materials)
